@@ -6,7 +6,6 @@ Name you application, and enter a useful description.
 1. Click **Create One Now** to create a new environment in your application.
 2. Leave **Web server environment** selected and click select.
 3. Set up your environment.
-    - Change the environment name to "Development"
     - Choose "PHP" for the preconfigured platform
     - At the bottom, choose upload your code and click 
     **Upload**
